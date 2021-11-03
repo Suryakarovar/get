@@ -6,7 +6,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon server.js"
   },
-  "author": "yashashwini reddy m s",
+  "author": "surya",
   "license": "ISC",
   "dependencies": {
     "ejs": "^3.1.6",
@@ -17,11 +17,11 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yashumnrs/get.git"
+    "url": "git+https://github.com/suryakarovar/get.git"
   },
   "bugs": {
-    "url": "https://github.com/yashumnrs/get/issues"
+    "url": "https://github.com/suryakarovar/get/issues"
   },
-  "homepage": "https://github.com/yashumnrs/get#readme",
+  "homepage": "https://github.com/suryakarovar/get#readme",
   "description": ""
 }
